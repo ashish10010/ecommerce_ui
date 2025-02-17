@@ -6,17 +6,8 @@ simple shoes ecommerce ui
 
 git clone https://github.com/ashish10010/ecommerce_ui.git
 
-# install dependencies (Provider)
-
-flutter pub add provider
-
-# clean
-
-flutter clean
-
-# get the dependencies
-
-fluter pub get
+# install dependencies 
+flutter pub get
 
 # run
 
